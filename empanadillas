@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Empanadillas Matilda</title>
+    <style>
+        body {
+            background-color: #f3e5f5; /* Rosa claro */
+            color: #673ab7; /* Morado */
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+
+        header {
+            background-color: #ba68c8; /* Morado claro */
+            padding: 20px;
+            text-align: center;
+        }
+
+        nav {
+            background-color: #9c27b0; /* Morado oscuro */
+            padding: 10px;
+            text-align: center;
+        }
+
+        nav a {
+            color: #fff;
+            text-decoration: none;
+            padding: 10px 20px;
+            margin: 0 10px;
+            border-radius: 5px;
+        }
+
+        nav a:hover {
+            background-color: #7b1fa2; /* Morado más oscuro */
+        }
+
+        section {
+            padding: 20px;
+            text-align: center;
+        }
+
+        footer {
+            background-color: #ba68c8; /* Morado claro */
+            padding: 10px;
+            text-align: center;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+
+<body>
+    <header>
+        <h1>Empanadillas Matilda</h1>
+    </header>
+
+    <nav>
+        <a href="#">Inicio</a>
+        <a href="#">Menú</a>
+        <a href="#">Contacto</a>
+    </nav>
+
+    <section>
+        <h2>Nuestro Menú de Empanadillas</h2>
+        <p>Aquí puedes encontrar nuestra deliciosa selección de empanadillas:</p>
+        <ul>
+            <li>Empanadillas de carne</li>
+            <li>Empanadillas de pollo</li>
+            <li>Empanadillas vegetarianas</li>
+        </ul>
+        <p>¡Haz tu pedido ahora!</p>
+
+        
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Empanadillas Matilda</p>
+    </footer>
+</body>
+
+</html>
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Empanadillas Matilda</title>
+    <style>
+        /* Estilos CSS */
+        /* ... */
+    </style>
+</head>
+
+<body>
+    <header>
+        <!-- Logo de Empanadillas Matilda -->
+        <img src="logo.png" alt="Logo de Empanadillas Matilda">
+        <h1>Empanadillas Matilda</h1>
+    </header>
+
+    <nav>
+        <!-- Menú de navegación -->
+        <!-- ... -->
+    </nav>
+
+    <section>
+        <!-- Contenido principal -->
+        <!-- ... -->
+        <!-- Imagen de muestra de empanadillas -->
+        <img src="descarga.jpg" alt="Empanadillas">
+    </section>
+
+    <footer>
+        <!-- Pie de página -->
+        <!-- ... -->
+    </footer>
+</body>
+
+</html>
